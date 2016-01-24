@@ -1,0 +1,1 @@
+rosrun moveit_ikfast create_ikfast_moveit_plugin.py tiago arm tiago_ikfast_arm_plugin /home/sam/ikfast_ws/src/tiago_ikfast_arm_plugin/src/tiago_arm_ikfast_solver.cpp
