@@ -247,7 +247,7 @@ WARNING: equation way too complex (4631), looking for another solution
 ````
 
 ### --freeindex=6
-Still computing after 1h...
+Still computing after 2h... already using 740MB of RAM.
 
     python /usr/local/lib/python2.7/dist-packages/openravepy/_openravepy_0_9/ikfast.py --robot=arm.rounded.dae --iktype=transform6d --baselink=0 --eelink=8 --freeindex=6 --savefile=tiago_arm_freeindex_6_ikfast_solver.cpp
 
