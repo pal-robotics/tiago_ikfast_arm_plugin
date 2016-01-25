@@ -15,7 +15,7 @@ You can download all necessary repositories using the rosinstall `workspace_rosi
 mkdir -p ~/ikfast_ws/src
 cd ~/ikfast_ws/src
 catkin_init_workspace
-wget https://raw.githubusercontent.com/pal-robotics/tiago_ikfast_arm_plugin/master/workspace_rosinstall .rosinstall
+wget https://raw.githubusercontent.com/pal-robotics/tiago_ikfast_arm_plugin/master/workspace_rosinstall -O .rosinstall
 wstool update -j4
 ````
 Or follow the step after step instructions you'll find nextly.
