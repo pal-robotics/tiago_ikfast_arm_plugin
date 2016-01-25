@@ -44,8 +44,10 @@ This took several minutes on a i7.
 
 It's a package with the URDF of the arm of TIAGo having removed any link/joint not in the kinematic chain between the base and end-effector.
 
+Check the [README](https://github.com/pal-robotics/tiago_ikfast) for instructions if you need to do it for your robot.
+
 ## Check the indices of the arm
-You may need:
+You may need (or not):
 
     sudo apt-get install python-scipy
 
