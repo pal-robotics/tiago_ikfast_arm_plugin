@@ -1,0 +1,6 @@
+- git: {local-name: moveit_ikfast, uri: 'https://github.com/ros-planning/moveit_ikfast.git', version: 'indigo-devel'}
+- git: {local-name: openrave, uri: 'https://github.com/rdiankov/openrave.git', version: 'latest_stable'}
+- git: {local-name: tiago_ikfast, uri: 'https://github.com/pal-robotics/tiago_ikfast.git', version: 'master'}
+- git: {local-name: tiago_ikfast_arm_plugin, uri: 'https://github.com/pal-robotics/tiago_ikfast_arm_plugin', version: 'master'}
+- git: {local-name: tiago_moveit_config, uri: 'https://github.com/pal-robotics/tiago_moveit_config.git', version: 'indigo-devel'}
+- git: {local-name: tiago_robot, uri: 'https://github.com/pal-robotics/tiago_robot', version: 'indigo-devel'}
